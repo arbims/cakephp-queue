@@ -13,7 +13,7 @@
         "enqueue/redis": "^0.10.19",
         "fakerphp/faker": "^1.23",
         "mobiledetect/mobiledetectlib": "^3.74",
-        "predis/predis": "^1"
+        "predis/predis": "^2"
     },
     "require-dev": {
         "cakephp/bake": "^3.0.0",
